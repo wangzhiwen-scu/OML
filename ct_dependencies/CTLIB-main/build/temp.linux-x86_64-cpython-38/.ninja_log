@@ -1,0 +1,11 @@
+# ninja log v5
+0	16730	1697789858888490312	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/ctlib.o	6e3a04f213170ff7
+1	28507	1697789870672895821	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/laplacian_cuda_kernel.o	a2555f05fb4d180e
+1	29682	1697789871844936157	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/fan_ed_kernel.o	2eeb46e6a5040101
+1	33763	1697789875929076728	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/para_kernel.o	b08e54cb9798dad6
+1	34378	1697789876541097794	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/fan_ea_kernel.o	deec4ecabf3fc032
+1	17332	1697793807206901301	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/ctlib.o	b489d2a9f6724ad8
+2	29143	1697793819027303285	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/laplacian_cuda_kernel.o	7f5b89f726275b95
+2	29932	1697793819811329950	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/fan_ed_kernel.o	f0c074b6d832fe16
+2	34079	1697793823963471172	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/para_kernel.o	f355b489b42c3201
+1	34775	1697793824659494845	/home/wzw/wzw/tta/ct_dependencies/CTLIB-main/build/temp.linux-x86_64-cpython-38/src/fan_ea_kernel.o	13019234c2eacc56
